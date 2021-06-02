@@ -1,5 +1,5 @@
 Description: Don't download python3-zeroconf
-Author: SwampRabbit (MX Linux)
+Author: SwampRabbit <swamprabbit@mxlinux.org>
 Last-Update: 2020-06-01
 
 --- a/meson_options.txt	2021-06-01 10:04:37.000000000 -0400
