@@ -32,6 +32,7 @@ Depends:
  python3-nacl,
  python3-netaddr,
  python3-netifaces,
+ python3-zeroconf (>= 0.27.0),
  ${misc:Depends},
  ${python3:Depends}
 Description: Allows simple local network file sharing.
