@@ -1,4 +1,4 @@
-Description: Don't download python3-zeroconf
+Description: Don't download python3-zeroconf at build time if not needed
 Author: SwampRabbit <swamprabbit@mxlinux.org>
 Last-Update: 2020-06-01
 
